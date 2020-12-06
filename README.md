@@ -8,12 +8,15 @@ This website began as a table with with the ability to filter UFO sightings by d
 
 The site opens with the full table of all UFO sightings from the data we have. From here we can easily filter this table according to the five criteria listed above. Take note of the format given in the preview for each filter field.
 
+[home](images/UFO_home)
 
 Enter the value you want to filter according to the format and push enter on your keyboard. You do not need to enter a value in every field in order to filter the data.
 
-
+[filter](images/UFO_table)
 
 Results should display in the same table format filtered in the criteria entered!
+
+[results](images/UFO_results)
 
 ## Summary
 
